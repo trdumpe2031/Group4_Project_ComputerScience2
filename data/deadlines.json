@@ -1,0 +1,16 @@
+tasks = [
+    {
+        "id": 1,
+        "task": "Physics Homework",
+        "subject": "Physics",
+        "deadline": "2026-11-25",
+        "status": "Pending"
+    },
+    {
+        "id": 2,
+        "task": "Science Project",
+        "subject": "Science",
+        "deadline": "2026-11-28",
+        "status": "Completed"
+    }
+]
