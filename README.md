@@ -11,7 +11,7 @@ Edit Task – Allows users to update task information, such as the task name or 
 Delete Task – Removes tasks that are no longer needed.\
 Mark as Completed – Changes the status of a task once it has been finished.\
 View Upcoming Deadlines – Shows tasks with approaching deadlines.\
-Task Summary – Displays the number of pending, completed, and overdue tasks.\
+Task Summary – Displays the number of pending, completed, and overdue tasks.
 
 # Project Purpose
 This purpose of this project is to help students organize their schoolwork by keeping track of their assignments, activities, and deadlines. Just Due aims to prevent missed submissions, reduce cramming, and help students manage their time more effectively.
